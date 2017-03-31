@@ -8,11 +8,15 @@ This example is to show different parts of the Git repository and various comman
 
 ## Purpose
 
+The Purpose of this is to get the same file in all the stages of the process
+
 ## Deployment
 
+This is to show the file at different stages
 
 ## How To Contribute
 
+You can contribute by pushing to git hub.
 
 
 # Starter Web Repo
