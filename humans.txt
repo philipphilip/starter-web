@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Philip Albert philip.a.philip@gmail.com 
 
 # THANKS
 
