@@ -18,11 +18,6 @@ This is to show the file at different stages
 
 You can contribute by pushing to git hub.
 
+### Copyright
 
-# Starter Web Repo
-
-This repository is for showing how Git and GitHub work
-
-## Purpose
-
-Sample website with plenty of files for demos
+2014 Git.Training
