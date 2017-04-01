@@ -16,7 +16,7 @@ This is to show the file at different stages
 
 ## How To Contribute
 
-You can contribute by pushing to git hub.
+Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
